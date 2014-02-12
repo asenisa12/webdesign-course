@@ -1,0 +1,45 @@
+p {
+    text-align: center;
+}
+
+#container {
+    width:1030px;
+    margin:20px auto;
+}
+
+#header {
+	background: #8421C7;
+	height: 50px;
+	padding: 5px;
+}
+
+#sidebar1 {
+	float: left;
+	width: 200px;
+	height: 100px;
+	background: #D174CA;
+	padding: 150px 5px;
+}
+
+#sidebar2 {
+	float: right;
+	width: 150px;
+	height: 100px;
+	background: #D174CA;
+	padding: 150px 5px;
+}
+
+#content {
+    float:left;
+    width:650px;
+    height:100px;
+	background:#B42727;
+	padding:150px 5px
+}
+
+#footer {
+    clear:both;
+    background: #8421C7;
+	height: 50px;
+	padding: 5px;
+}
