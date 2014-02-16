@@ -1,0 +1,48 @@
+* { 
+	margin: 0; 
+	padding: 0; 
+}
+
+.container { 
+	width: 638px; 
+	height: 600px; 
+	margin: 0 auto;
+	background: url(http://s3.amazonaws.com/rapgenius/2013-08-13_1259.png) no-repeat center;
+	font-weight:bold;
+	color: red;
+
+
+}
+
+.main > ol { 
+	width: 638px; 
+	height: 600px; 
+	margin: 0 auto;
+}
+
+.main > ol > li { 
+	padding: 10px; 
+}
+
+.main > ol > li { 
+	display: block; 
+	overflow: hidden; 
+}
+.main > ol > li > .title { 
+	float: left; 
+}
+.main > ol > li > .time { 
+	float: right; 
+}
+.main > ol > li > .dot { 
+	display: block; 
+	height: 1em; 
+	overflow: auto; 
+	border-bottom: 2px dotted red; 
+}
+
+.footer, .header { 
+	margin: 15px; 
+	text-align: center;
+	background-color: #2e4f8a;
+}
