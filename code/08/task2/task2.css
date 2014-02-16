@@ -1,0 +1,23 @@
+#img{
+  margin: 2px;
+  padding: 0px; 
+  border: 5px solid #0000ff;
+  height: 140;
+  width: 200;
+
+}
+#col1{
+	float: left;	
+}
+ #img a{
+  display: inline;
+  margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+ }
+
+#img:hover{
+	border: 5px 
+	solid #E9062A;
+}
